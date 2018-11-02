@@ -27,8 +27,8 @@ body {
 	font-family:sans-serif;
 	}
 .spacepic {
-        float:left
+        float:left;
         border: 3px ridge gray;
-	width: 500px;
+	width: 350px;
 	margin-right:3px;
 	}	
