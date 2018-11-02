@@ -34,6 +34,7 @@ body {
 	}	
 .ribbon {
 	background-color:red;
+	padding:4px;
 }
 .ribbon-button {
 	background-color:blue;
