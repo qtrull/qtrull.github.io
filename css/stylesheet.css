@@ -35,7 +35,7 @@ body {
 .ribbon {
 	background-color:red;
 }
-button .ribbon {
+.ribbon-button {
 	background-color:blue;
 	color:white;
 }
