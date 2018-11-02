@@ -33,9 +33,9 @@ body {
 	margin-right:3px;
 	}	
 .ribbon {
-	background:red;
+	background-color:red;
 }
 button .ribbon {
-	background:blue;
+	background-color:blue;
 	color:white;
 }
