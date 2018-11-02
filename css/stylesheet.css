@@ -32,3 +32,10 @@ body {
 	width: 350px;
 	margin-right:3px;
 	}	
+.ribbon {
+	background:red;
+}
+button .ribbon {
+	background:blue;
+	color:white;
+}
