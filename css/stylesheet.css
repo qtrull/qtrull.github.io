@@ -33,10 +33,11 @@ body {
 	margin-right:3px;
 	}	
 .ribbon {
-	background-color:red;
+	background-color: rgb(135, 135, 135);
 	padding:4px;
 }
 .ribbon-button {
-	background-color:blue;
+	background-color:black;
 	color:white;
+	padding:2px;
 }
