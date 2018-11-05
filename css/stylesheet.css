@@ -35,6 +35,7 @@ body {
 .ribbon {
 	background-color: rgb(135, 135, 135);
 	padding:4px;
+	position:fixed;
 }
 .ribbon-button {
 	background-color:black;
